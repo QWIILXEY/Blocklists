@@ -1,2 +1,1 @@
-# Blocklists
-Repository for my personal blocklists
+### i'll edit the readme later
